@@ -15,7 +15,7 @@
     <title lang="SV">Tillägg från tredje part</title>
   </details>
   <plugins>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44, Reb0rnEnder" icon="https://raw.githubusercontent.com/Reb0rnEnder/e2-lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" link="https://github.com/Reb0rnEnder/e2-lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="b3ba918d910b314fe791e4b8b5d9f2cd033e0de9" url="https://github.com/Reb0rnEnder/e2-lms-plugin-tidal/releases/download/1.5.3/TIDAL.zip" version="1.5.3">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44, Reb0rnEnder" icon="https://raw.githubusercontent.com/Reb0rnEnder/e2-lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="4160" link="https://github.com/Reb0rnEnder/e2-lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="6711dc9fdc9440097519af68cd8928384edeb092" url="https://github.com/Reb0rnEnder/e2-lms-plugin-tidal/releases/download/1.5.4/TIDAL.zip" version="1.5.4">
       <desc lang="EN">TIDAL Max for local LMS use</desc>
       <title lang="EN">E2 TIDAL local</title>
     </plugin>
