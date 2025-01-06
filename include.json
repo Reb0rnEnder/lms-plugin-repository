@@ -1,6 +1,6 @@
 {
 	"repositories": [
-		"https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/repo/repo.xml",
+		"https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/repo/repo.xml"
 	],
 	"disabled": [],
 	"title": [
