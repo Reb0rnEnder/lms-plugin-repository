@@ -1,8 +1,23 @@
 <extensions>
+  <details>
+    <title lang="CS">Jiné pluginy třetích stran</title>
+    <title lang="DA">Udvidelsesmoduler fra tredjepart</title>
+    <title lang="DE">Plugins von Drittanbietern</title>
+    <title lang="EN">3rd party plugins</title>
+    <title lang="ES">Complementos de terceros</title>
+    <title lang="FI">Valmistajien laajennukset</title>
+    <title lang="FR">Plugins tiers</title>
+    <title lang="IT">Plugin di terzi</title>
+    <title lang="NL">Plug-ins van derden</title>
+    <title lang="NO">Tredjeparts plugin-moduler</title>
+    <title lang="PL">Pozostałe dodatki innych firm</title>
+    <title lang="RU">Другие подключаемые модули сторонних изготовителей</title>
+    <title lang="SV">Tillägg från tredje part</title>
+  </details>
   <plugins>
-    <plugin name="E2 TIDAL" category="musicservices" creator="Michael Herger, philippe_44, Reb0rnEnder" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="4144" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="800193697c714ba85f8c56cffbf8a9f3b28d137d" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.5.3/TIDAL.zip" version="1.5.3">
-      <desc lang="EN">Fixed TIDAL for local LMS use</desc>
-      <title lang="EN">E2 TIDAL local</title>
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="4160" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="800193697c714ba85f8c56cffbf8a9f3b28d137d" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.5.3/TIDAL.zip" version="1.5.3">
+      <desc lang="EN">TIDAL for local LMS use</desc>
+      <title lang="EN">TIDAL local</title>
     </plugin>
   </plugins>
 </extensions>
